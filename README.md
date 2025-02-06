@@ -16,7 +16,7 @@ DermaNet is a skin disease detection system using EfficientNet. It is designed t
 1. Clone this repository:
 
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/kylavaloria/DermaNet.git
     ```
 
 2. Create and activate a Python virtual environment:
