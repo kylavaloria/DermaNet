@@ -1,4 +1,4 @@
-# DermaNet
+# DermaNet Skin Disease Classification
 
 ## Overview
 
